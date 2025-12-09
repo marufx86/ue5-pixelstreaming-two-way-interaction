@@ -1,0 +1,47 @@
+# Define the attributes lock (enable locking with lockable), lfs (just store in lfs without locking), lfstext
+[attr]lock filter=lfs diff=lfs merge=binary -text lockable
+[attr]lfs filter=lfs diff=lfs merge=binary -text
+[attr]lfstext filter=lfs diff=lfstext merge=text -text
+
+#apply attributes to file types
+# Unreal Engine file types.
+*.uasset lock
+*.umap lock
+*.locres lfs
+*.locmeta lfs
+# Steam Audio files
+*.phononscene lfs
+*.probebox lfs
+*.probebatch lfs
+*.bakedsources lfs
+# Binaries
+*.exe lfs
+*.dll lfs
+*.rcc lfs
+*.pak lfs
+# FMOD
+*.bank lfs
+*.wav lfs
+*.mp3 lfs
+*.ogg lfs
+*.flac lfs
+# Icons
+*.png lfs
+*.ico lfs
+*.icns lfs
+*.tga lfs
+*.jpg lfs
+*.tif lfs
+# Movies
+*.bk2 lfs
+*.mp4 lfs
+*.mkv lfs
+# Raw
+*.fbx lfs
+*.obj lfs
+*.3ds lfs
+*.psd lfs
+*.xcf lfs
+*.woff2 lfs
+*.zip lfs
+*.7z lfs
