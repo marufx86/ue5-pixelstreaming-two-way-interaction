@@ -111,7 +111,7 @@
 		},
 		{
 			"Name": "E3DSAutomationTools",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
