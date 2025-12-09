@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.5",
+	"EngineAssociation": "5.3",
 	"Category": "Samples",
 	"Description": "",
 	"Plugins": [
@@ -104,14 +104,6 @@
 		{
 			"Name": "ElectraPlayer",
 			"Enabled": true
-		},
-		{
-			"Name": "PixelStreaming",
-			"Enabled": true
-		},
-		{
-			"Name": "E3DSAutomationTools",
-			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
