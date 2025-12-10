@@ -88,6 +88,6 @@ In the provided "Frontend ➔ Unreal" download, the following changes have alrea
 1.  Run the Signaling Server and the Unreal Engine project (as described in Scenario 1).
 2.  To test the custom interface, visit the specific HTML page in your browser:
     ```text
-    [http://127.0.0.1/custom_interface.html](http://127.0.0.1/custom_interface.html)
+    http://127.0.0.1/custom_interface.html
     ```
 3.  Use the interface buttons to trigger events in the Unreal Engine scene.
