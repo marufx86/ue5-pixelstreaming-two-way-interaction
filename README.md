@@ -6,7 +6,7 @@ This project demonstrates how to send Pixel Streaming responses from Unreal Engi
 
 ## 📥 Downloads
 
-* **Modified Packaged Project:** [Download from Google Drive](https://drive.google.com/file/d/1gXla3vfHFWJvSH92py8nmU6ji8eelUhc/view?usp=sharing)
+* **Modified Packaged Project (send data unreal to frontend):** [Download from Google Drive](https://drive.google.com/file/d/1gXla3vfHFWJvSH92py8nmU6ji8eelUhc/view?usp=sharing)
 
 ---
 
