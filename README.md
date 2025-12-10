@@ -4,6 +4,8 @@ This project demonstrates two-way communication between Unreal Engine and a Web 
 1.  **Response:** Sending data from Unreal Engine to the Frontend (e.g., when a seat color changes).
 2.  **Commands:** Sending commands from the Frontend to Unreal Engine (e.g., triggering a blueprint event).
 
+> **⚠️ Compatibility Note:** This project is built using **Unreal Engine 5.3**. It is highly recommended to use UE 5.3 to ensure full compatibility with the provided project files and scripts.
+
 ---
 
 ## 📥 Downloads
