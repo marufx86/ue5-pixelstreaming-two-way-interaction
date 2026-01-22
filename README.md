@@ -12,10 +12,10 @@ This project demonstrates two-way communication between Unreal Engine and a Web 
 
 Select the project version based on which direction of data flow you are testing.
 
-| Version | Description | Link |
+| Version | Description | Download Links |
 | :--- | :--- | :--- |
-| **Unreal ➔ Frontend** | Modified project setup to send data **out** from Unreal. | [Download Project](https://drive.google.com/file/d/1gXla3vfHFWJvSH92py8nmU6ji8eelUhc/view?usp=sharing) |
-| **Frontend ➔ Unreal** | Modified project setup to receive commands **into** Unreal. | [Download Project](https://drive.google.com/file/d/1JjUClstrhmhVLQHHc4a_X68UpFe-SUa4/view?usp=sharing) |
+| **Unreal ➔ Frontend** | Modified project setup to send data **out** from Unreal. | [Google Drive](https://drive.google.com/file/d/1gXla3vfHFWJvSH92py8nmU6ji8eelUhc/view?usp=sharing) / [Backup (Mega)](https://mega.nz/file/yHpjiQ7L#1ya6KuS8p2K1hBsa2KAjvnHfM1wxna_ny8DoGbFVkmk) |
+| **Frontend ➔ Unreal** | Modified project setup to receive commands **into** Unreal. | [Google Drive](https://drive.google.com/file/d/1JjUClstrhmhVLQHHc4a_X68UpFe-SUa4/view?usp=sharing) / [Backup (Mega)](https://mega.nz/file/GKwBiSBJ#xkHebupnuc7B8ek5oFrh8KNoTiy5ABbv1UJUt5Qmqy8) |
 
 ---
 
